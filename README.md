@@ -1,4 +1,4 @@
-## ktntbotwa
+## ktntbotwa.dll
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/barkat42/ktntbotwa
-> cd ktntbotwa
+> git clone https://github.com/barkat42/ktntbotwa.dll
+> cd ktntbotwa.dll
 > bash install.sh
 > node index.js
 ```
